@@ -51,10 +51,7 @@ Represents aggressive downward participation:
 
 ### C. Derived Flow Imbalance
 A combined representation of market pressure:
-
-\[
-\text{flow imbalance} = f(\text{buy pressure}, \text{sell pressure})
-\]
+<img width="458" height="53" alt="image" src="https://github.com/user-attachments/assets/3249da33-65dc-4880-b642-691cbf5cd3fb" />
 
 ---
 
