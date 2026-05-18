@@ -79,9 +79,7 @@ A combined representation of market pressure:
 
 The output is a probability:
 
-\[
-P(\text{winning trade})
-\]
+<img width="233" height="57" alt="image" src="https://github.com/user-attachments/assets/35b3f458-7e22-42e9-879f-3f4739fa28e7" />
 
 or equivalently:
 - probability that price moves in favor of a given trade direction
