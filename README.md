@@ -4,15 +4,7 @@
 
 The objective of this system is to estimate the probability of a profitable trade outcome under current market conditions.
 
-Formally:
-
-\[
-P(\text{PnL} > 0 \mid \mathcal{F}_t)
-\]
-
-where:
-- \( \mathcal{F}_t \) = observed market flow state at time \( t \)
-- PnL > 0 = trade results in profit
+<img width="530" height="187" alt="image" src="https://github.com/user-attachments/assets/fa96284a-b17d-4b50-9c17-3df8de66dd7f" />
 
 ---
 
