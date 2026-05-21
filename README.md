@@ -1,5 +1,8 @@
 # Probabilistic Order Flow Trading Model (Conceptual Design)
 
+<img width="2000" height="1089" alt="image" src="https://github.com/user-attachments/assets/bd2ef63d-9e2a-409c-83f7-775e3568b1ee" />
+
+
 ## 1. System Objective
 
 The objective of this system is to estimate the probability of a profitable trade outcome under current market conditions.
